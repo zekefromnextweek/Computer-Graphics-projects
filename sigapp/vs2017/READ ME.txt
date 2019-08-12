@@ -1,0 +1,8 @@
+READ ME:
+
+This is my project for my computer graphics class. This code loads in a 3d model and animates it. It also applies a shadow matrix to the 3d model, giving it a shadow that mimicks the objects movements. Various keys move different parts of the robot's,3d model's, body. You should be able to easily view the code, however it may not run because you need to configure your visual studio to very specific settings. 
+To run the project  :
+1.Open sigapp(2) folder
+2. Open vs2017
+3. Open sigapp (MS Visual Studio Solution)
+4. run project in visual studio
